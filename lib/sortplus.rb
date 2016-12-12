@@ -1,5 +1,5 @@
 require "sortplus/version"
 
-module Sortplus
+module SortPlus
   # Your code goes here...
 end
