@@ -2,6 +2,9 @@
 
 Very simple gem implementing a sort method to arrays of arrays and arrays of hashes.
 
+[![Build Status](https://travis-ci.org/EdDeAlmeidaJr/sortplus.svg?branch=master)](https://travis-ci.org/EdDeAlmeidaJr/sortplus)
+[![Code Climate](https://codeclimate.com/github/EdDeAlmeidaJr/sortplus/badges/gpa.svg)](https://codeclimate.com/github/EdDeAlmeidaJr/sortplus)
+
 ## Installation
 
 Add this line to your application's Gemfile:
