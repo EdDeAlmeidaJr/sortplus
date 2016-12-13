@@ -38,6 +38,11 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 - The code is completely naïve in this first release. No error checking is performed. So, be careful!
 
+## Things to be done in the next release
+
+- Error checking
+- Array of hashes sorted by combined keys
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/EdDeAlmeidaJr/sortplus.
