@@ -10,9 +10,11 @@ Gem::Specification.new do |spec|
   spec.email         = ["edvaldoajunior@gmail.com"]
 
   spec.summary       = %q{Pretty simple gem implementing some special array sorting methods.}
-  spec.description   = %q{Pretty simple gem implementing methods to sort arrays-of-arrays and arrays-of-hashes.}
+  spec.description   = %q{Pretty simple gem implementing a method to sort arrays-of-arrays according to a column and arrays-of-hashes according to a key.}
   spec.homepage      = "https://github.com/EdDeAlmeidaJr/sortplus"
   spec.license       = "MIT"
+
+  spec.required_ruby_version = '>= 1.9.2'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
