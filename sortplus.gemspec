@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ed de Almeida"]
   spec.email         = ["edvaldoajunior@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Pretty simple gem implementing some special sorting methods.}
+  spec.description   = %q{Pretty simple gem implementing methods to sort arrays-of-arrays, arrays-of-hashes, hash-of-arrays and hash-of-hashes.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
